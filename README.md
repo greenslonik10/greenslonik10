@@ -1,4 +1,4 @@
-## Hi! I'am Nikita! 👋
+## Hi! I'm Nikita! 👋
 
 👨‍💻 Ruby on Rails developer, DevOps, сool guy.<br/>
 
